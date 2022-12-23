@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duvanleal65&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvanleal65&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duvanleal96&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvanleal96&layout=compact&theme=dark"/>
 </div>
 
 <!--
