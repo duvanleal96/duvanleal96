@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duvanleal65&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvanleal65&layout=compact&theme=dark"/>
+</div>
 
 <!--
 **duvanleal96/duvanleal96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
